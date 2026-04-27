@@ -1,0 +1,9 @@
+=== INPUT ===
+3
+10 60
+20 100
+30 120
+50
+
+=== OUTPUT ===
+Enter number of items: Enter weight and profit of item 1: Enter weight and profit of item 2: Enter weight and profit of item 3: Enter knapsack capacity: Maximum profit = 240.00

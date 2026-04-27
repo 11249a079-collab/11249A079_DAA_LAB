@@ -1,0 +1,11 @@
+=== INPUT ===
+4
+0 1 1 0
+1 0 1 1
+1 1 0 0
+0 1 0 0
+
+=== OUTPUT ===
+Enter number of vertices: Enter adjacency matrix:
+Vertex Cover:
+0 1

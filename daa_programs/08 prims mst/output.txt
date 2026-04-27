@@ -1,0 +1,13 @@
+=== INPUT ===
+4
+999 10 15 20
+10 999 35 25
+15 35 999 30
+20 25 30 999
+
+=== OUTPUT ===
+Enter number of vertices: Enter adjacency matrix:
+Edges in MST:
+Edge cost: 10
+Edge cost: 15
+Edge cost: 20

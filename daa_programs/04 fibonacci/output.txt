@@ -1,0 +1,6 @@
+=== INPUT ===
+5
+
+=== OUTPUT ===
+Enter n: Recursive Fibonacci: 5
+Iterative Fibonacci: 5

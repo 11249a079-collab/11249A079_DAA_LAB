@@ -1,0 +1,11 @@
+=== INPUT ===
+4
+0 10 10 0
+0 0 2 10
+0 0 0 10
+0 0 0 0
+0 3
+
+=== OUTPUT ===
+Enter number of vertices: Enter capacity matrix:
+Enter source and sink: Maximum flow: 20

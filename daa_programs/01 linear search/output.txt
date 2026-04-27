@@ -1,0 +1,9 @@
+=== INPUT ===
+5
+10 20 30 40 50
+30
+
+=== OUTPUT ===
+Enter number of elements: Enter elements:
+Enter key: Element found @ position 3
+Total time taken for execution: 0.000000
